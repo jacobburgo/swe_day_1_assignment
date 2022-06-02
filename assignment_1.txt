@@ -1,0 +1,7 @@
+I work on a pretty large React & Redux project at work. So I’ve used all of these repos personally, excluding gitignore obviously.
+https://github.com/fraserxu/react-dropdown
+https://github.com/Hacker0x01/react-datepicker
+https://github.com/kybarg/react-qr-scanner
+https://github.com/JedWatson/react-select
+https://github.com/github/gitignore
+This is a change
